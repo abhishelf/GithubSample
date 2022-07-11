@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GithubSample</string>
+    <string name="pull_request">Pull Requests</string>
+    <string name="network_loading_error_text">Something Went Wrong</string>
+</resources>
