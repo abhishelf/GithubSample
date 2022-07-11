@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Layout UI Color -->
+    <color name="textColorPrimary">#D9FFFFFF</color>
+    <color name="textColorSecondary">#8CFFFFFF</color>
+    <color name="textColorHint">#4DFFFFFF</color>
+    <color name="dividerColor">#FFFFFF</color>
+</resources>
